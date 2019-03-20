@@ -1,6 +1,6 @@
-# gitment
+# gitment fix js
 
-修正 gitment 
+修正 gitment [object ProgressEvent]
 
 使用第一種方式
 
@@ -11,7 +11,7 @@ _utils.http.post('https://gh-oauth.imsun.net', {})
 _utils.http.post('https://github.com/login/oauth/access_token', {})
 ```
 
-[參考連結]https://segmentfault.com/a/1190000018177680
+[參考連結](https://segmentfault.com/a/1190000018177680)
 
 
 
